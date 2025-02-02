@@ -41,11 +41,11 @@ The implementation is provided in the Jupyter Notebook: `102203584_Trish_Rustagi
 
 ## 4. Results
 ### Final Rankings:
-![image](https://github.com/user-attachments/assets/896d251c-47eb-4ceb-867c-5a81c8ccec67)
+![Image](https://github.com/user-attachments/assets/270a6676-809c-4089-8693-4a71b802536d)
 
 
 ### TOPSIS Output:
-![image](https://github.com/user-attachments/assets/1698dbaf-8c50-4273-a20b-9c55ef9aa08a)
+![Image](https://github.com/user-attachments/assets/cc6e2167-52c5-46fc-94f7-18ef9facbec2)
 
 
 ## 5. Usage
